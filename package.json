@@ -2,6 +2,7 @@
   "name": "github_useer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shravan562.github.io/GitHub-User-Access",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
