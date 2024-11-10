@@ -116,19 +116,6 @@ function App() {
                       {userInfo.location}
                     </Badge>
                   )}
-                  {/* {userInfo.homepage && (
-                    <Badge bg="light" text="dark" className="px-3 py-2">
-                      <i className="bi bi-link-45deg me-1"></i>
-                      <a
-                        href={userInfo.homepage}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-decoration-none text-dark"
-                      >
-                        Website
-                      </a>
-                    </Badge>
-                  )} */}
                 </div>
               </Card.Body>
             </Card>
